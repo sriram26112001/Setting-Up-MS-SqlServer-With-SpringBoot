@@ -1,4 +1,4 @@
-# Setting-Up-Sql-Server-With-SpringBoot
+# Setting-Up-MS Sql-Server-With-SpringBoot
 This project demonstrates how to configure and connect Spring Boot with Microsoft SQL Server.It covers everything from establishing a database connection
 
 ## Features
