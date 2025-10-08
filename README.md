@@ -22,7 +22,7 @@ Properties
 # ===============================
 spring.datasource.url=jdbc:sqlserver://LAPTOP-XXXXXXX\\SQLEXPRESS:1433;databaseName=user;encrypt=true;trustServerCertificate=true
 spring.datasource.username=sa
-spring.datasource.password=5326
+spring.datasource.password=myStrongPassword!
 spring.datasource.driver-class-name=com.microsoft.sqlserver.jdbc.SQLServerDriver
 
 # ===============================
